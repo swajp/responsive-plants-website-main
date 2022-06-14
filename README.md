@@ -9,3 +9,5 @@ Obchod s rostlinami vytvořen pomocí PHP. Jelikož eshop běží online pro jed
 #### potřeba dokončit
 - objednávky
 - změna hesla
+
+DEMO: 
