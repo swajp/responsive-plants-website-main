@@ -10,4 +10,4 @@ Obchod s rostlinami vytvořen pomocí PHP. Jelikož eshop běží online pro jed
 - objednávky
 - změna hesla
 
-DEMO: 
+DEMO: https://odious-sealion-8948.dataplicity.io/mira/
